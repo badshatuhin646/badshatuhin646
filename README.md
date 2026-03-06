@@ -67,9 +67,9 @@
 
 # ⭐ Top Repositories
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=badshatuhin646&repo=result-management&theme=tokyonight&show_owner=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=badshatuhin646&repo=personal-portfolio&theme=tokyonight&show_owner=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=badshatuhin646&repo=college-website&theme=tokyonight&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=badshatuhin646&repo=badshatuhin646&theme=tokyonight&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=badshatuhin646&repo=Md-Tuhin-Badsha---personal-website&theme=tokyonight&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=badshatuhin646&repo=practice&theme=tokyonight&show_owner=true" />
 </p>
 
 ---
