@@ -48,17 +48,7 @@
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=badshatuhin646&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badshatuhin646&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -70,11 +60,35 @@
 
 ---
 
-# 🏆 GitHub Trophies
+---
+
+# 🏆 GitHub Trophies & Top Repositories
 
 <p align="center">
 
+<!-- GitHub Trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=badshatuhin646&theme=onedark&row=1&column=6"/>
+
+</p>
+
+---
+
+# ⭐ GitHub Stars & Popular Repos
+
+<p align="center">
+
+<!-- Top Repositories -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=badshatuhin646&repo=badshatuhin646&theme=tokyonight&show_owner=true" />  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=badshatuhin646&repo=result-management&theme=tokyonight&show_owner=true" />  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=badshatuhin646&repo=college-website&theme=tokyonight&show_owner=true" />  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=badshatuhin646&repo=personal-portfolio&theme=tokyonight&show_owner=true" />
+
+</p>
+
+<p align="center">
+
+<!-- Total Stars -->
+<img src="https://github-readme-stats.vercel.app/api?username=badshatuhin646&show_icons=true&count_private=true&theme=tokyonight" />
 
 </p>
 
