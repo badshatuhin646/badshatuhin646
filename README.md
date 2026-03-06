@@ -1,5 +1,7 @@
-!<h1 align="center">Hi 👋, I'm Md Tuhin Badsha</h1>
-[Banner](https://pbs.twimg.com/profile_banners/1636018116487528448/1772772591/600x200)
+<h1 align="center">Hi 👋, I'm Md Tuhin Badsha</h1>
+<p align="center">
+<img src="https://pbs.twimg.com/profile_banners/1636018116487528448/1772772591/600x200" width="100%" />
+</p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Python+Programmer;Flutter+Learner;Building+Modern+Web+Applications" />
 </p>
