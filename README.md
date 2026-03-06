@@ -1,152 +1,115 @@
-<h1 align="center">Hi 👋, I'm Md Tuhin Badsha</h1>
+<!-- ================= Banner ================= -->
 <p align="center">
-<img src="https://pbs.twimg.com/profile_banners/1636018116487528448/1772772591/600x200" width="100%" />
+<img src="https://pbs.twimg.com/profile_banners/1636018116487528448/1772772591/600x200" width="100%">
 </p>
+
+<h1 align="center">👨‍💻 Md Tuhin Badsha</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Python+Programmer;Flutter+Learner;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=750&lines=Web+Developer;Python+Programmer;Flutter+Learner;Building+Modern+Web+Applications" />
+</p>
+
+<p align="center">
+<a href="https://mdtuhinbadsha646.netlify.app/">🌐 Portfolio</a> •
+<a href="https://www.facebook.com/mdtuhinbadsha646">📘 Facebook</a> •
+<a href="https://www.instagram.com/mdtuhinbadsha646">📷 Instagram</a>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 👤 Name: **Md Tuhin Badsha**
-- 💻 Profession: **Web Developer**
-- 🌍 Country: Bangladesh
-- 🌐 Website:  
-  https://mdtuhinbadsha646.netlify.app
-- 📧 Email:  
-  badshatuhin646@gmail.com
+- 👤 Name: **Md Tuhin Badsha**  
+- 💻 Profession: **Web Developer**  
+- 🌍 Country: Bangladesh  
+- 🌐 Website: https://mdtuhinbadsha646.netlify.app  
+- 📧 Email: badshatuhin646@gmail.com  
 
 ---
 
 # 🧑‍💻 Developer Life
-
 <p align="center">
-
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-
 </p>
 
 ---
 
-# 🚀 Skills & Technologies
+# 🚀 Skills & Technologies (Glass Badges)
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
-
+<a href="#"><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
 </p>
 
 ---
 
-
-
-# 🔥 GitHub Streak
-
+# 🏆 GitHub Trophies
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=badshatuhin646&theme=tokyonight"/>
-
-</p>
-
----
-
----
-
-# 🏆 GitHub Trophies & Top Repositories
-
-<p align="center">
-
-<!-- GitHub Trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=badshatuhin646&theme=onedark&row=1&column=6"/>
-
 </p>
 
 ---
 
-# ⭐ GitHub Stars & Popular Repos
-
+# 📊 GitHub Stats & Stars
 <p align="center">
-
-<!-- Top Repositories -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=badshatuhin646&repo=badshatuhin646&theme=tokyonight&show_owner=true" />  
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=badshatuhin646&repo=result-management&theme=tokyonight&show_owner=true" />  
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=badshatuhin646&repo=college-website&theme=tokyonight&show_owner=true" />  
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=badshatuhin646&repo=personal-portfolio&theme=tokyonight&show_owner=true" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=badshatuhin646&show_icons=true&count_private=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badshatuhin646&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=badshatuhin646&theme=tokyonight"/>
+</p>
 
-<!-- Total Stars -->
-<img src="https://github-readme-stats.vercel.app/api?username=badshatuhin646&show_icons=true&count_private=true&theme=tokyonight" />
+---
 
+# ⭐ Top Repositories
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=badshatuhin646&repo=result-management&theme=tokyonight&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=badshatuhin646&repo=personal-portfolio&theme=tokyonight&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=badshatuhin646&repo=college-website&theme=tokyonight&show_owner=true" />
 </p>
 
 ---
 
 # 📈 Contribution Graph
-
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=badshatuhin646&theme=tokyo-night"/>
-
 </p>
 
 ---
 
 # 📂 My Projects
-
 ### 📊 Result Management System
-A system for managing student results with CGPA calculation and printable mark sheets.
+A web-based system for managing student results with CGPA calculation and printable mark sheets.
 
-### 🌐 Personal Website
-Portfolio website to showcase my projects and skills.
+### 🌐 Personal Portfolio Website
+A modern portfolio website showcasing my projects and skills.
 
 ### 🏫 College Website
-Responsive college website with dashboard and management features.
+A responsive college website template with dashboard, notices, and management features.
 
 ---
 
 # 🌐 Connect With Me
-
 <p align="center">
-
 <a href="https://mdtuhinbadsha646.netlify.app">
-<img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
+<img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://www.facebook.com/mdtuhinbadsha646">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/mdtuhinbadsha646">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:badshatuhin646@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 # 👁 Profile Visitors
-
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=badshatuhin646&label=Profile%20views&color=blue&style=flat"/>
-
 </p>
 
 ---
